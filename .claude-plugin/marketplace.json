@@ -1,0 +1,26 @@
+{
+  "name": "shuohao-skills",
+  "description": "AI 短剧制作 skill 集合：小说 → 大纲 → 角色 → 参考图 → 美术 → 剧本 → 走位 → 分镜投产包",
+  "owner": {
+    "name": "sunlicp"
+  },
+  "plugins": [
+    {
+      "name": "shuohao-skills",
+      "description": "面向各类 Agent 的 AI 短剧制作 skill 集合：排大纲、拆角色、出场景与道具设定、写剧本、排开场站位、切分镜，产出可直接投产的 Seedance/H3 投产包",
+      "version": "1.0.0",
+      "source": "./",
+      "author": {
+        "name": "eternityspring",
+        "url": "https://github.com/eternityspring/shuohao-skills"
+      },
+      "license": "Apache-2.0",
+      "keywords": [
+        "skills",
+        "short-drama",
+        "storyboard",
+        "novel-adaptation"
+      ]
+    }
+  ]
+}
